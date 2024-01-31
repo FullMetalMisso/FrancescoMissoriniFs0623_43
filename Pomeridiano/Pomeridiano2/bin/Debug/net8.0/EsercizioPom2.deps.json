@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EsercizioPom2/1.0.0": {
+        "runtime": {
+          "EsercizioPom2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EsercizioPom2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

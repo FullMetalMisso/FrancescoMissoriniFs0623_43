@@ -1,0 +1,14 @@
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\EsercizioPom2\bin\Debug\net8.0\EsercizioPom2.exe
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\EsercizioPom2\bin\Debug\net8.0\EsercizioPom2.deps.json
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\EsercizioPom2\bin\Debug\net8.0\EsercizioPom2.runtimeconfig.json
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\EsercizioPom2\bin\Debug\net8.0\EsercizioPom2.dll
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\EsercizioPom2\bin\Debug\net8.0\EsercizioPom2.pdb
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\EsercizioPom2\obj\Debug\net8.0\EsercizioPom2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\EsercizioPom2\obj\Debug\net8.0\EsercizioPom2.AssemblyInfoInputs.cache
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\EsercizioPom2\obj\Debug\net8.0\EsercizioPom2.AssemblyInfo.cs
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\EsercizioPom2\obj\Debug\net8.0\EsercizioPom2.csproj.CoreCompileInputs.cache
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\EsercizioPom2\obj\Debug\net8.0\EsercizioPom2.dll
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\EsercizioPom2\obj\Debug\net8.0\refint\EsercizioPom2.dll
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\EsercizioPom2\obj\Debug\net8.0\EsercizioPom2.pdb
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\EsercizioPom2\obj\Debug\net8.0\EsercizioPom2.genruntimeconfig.cache
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\EsercizioPom2\obj\Debug\net8.0\ref\EsercizioPom2.dll

@@ -1,0 +1,14 @@
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\Pomeridiano\bin\Debug\net8.0\Pomeridiano.exe
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\Pomeridiano\bin\Debug\net8.0\Pomeridiano.deps.json
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\Pomeridiano\bin\Debug\net8.0\Pomeridiano.runtimeconfig.json
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\Pomeridiano\bin\Debug\net8.0\Pomeridiano.dll
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\Pomeridiano\bin\Debug\net8.0\Pomeridiano.pdb
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\Pomeridiano\obj\Debug\net8.0\Pomeridiano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\Pomeridiano\obj\Debug\net8.0\Pomeridiano.AssemblyInfoInputs.cache
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\Pomeridiano\obj\Debug\net8.0\Pomeridiano.AssemblyInfo.cs
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\Pomeridiano\obj\Debug\net8.0\Pomeridiano.csproj.CoreCompileInputs.cache
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\Pomeridiano\obj\Debug\net8.0\Pomeridiano.dll
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\Pomeridiano\obj\Debug\net8.0\refint\Pomeridiano.dll
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\Pomeridiano\obj\Debug\net8.0\Pomeridiano.pdb
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\Pomeridiano\obj\Debug\net8.0\Pomeridiano.genruntimeconfig.cache
+C:\Users\sr116\Desktop\Corsofulls23\Backend\giorno3\Pomeridiano\obj\Debug\net8.0\ref\Pomeridiano.dll
